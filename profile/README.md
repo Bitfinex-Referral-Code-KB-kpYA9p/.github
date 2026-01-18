@@ -57,6 +57,7 @@ Bitfinex uses industry-standard security practices including **cold storage, 2FA
 
 Follow these steps to apply the referral code:
 
+<img width="500" height="500" alt="Bitfinex Exchange Referral Code" src="https://github.com/user-attachments/assets/9a6b0f2a-6a72-4343-bebd-f16c662d3ab3" />
 
 
 1. Visit the **Bitfinex official website**.
